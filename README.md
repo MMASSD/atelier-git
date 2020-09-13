@@ -1,5 +1,7 @@
+![Logo git]()
+
 # Atelier git
 
-Dépot test pour les étudiants de master MMASD.
+Dépot test pour les étudiants de master MASSD.
 
 

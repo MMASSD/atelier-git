@@ -4,4 +4,4 @@
 
 Dépot test pour les étudiants de master MASSD.
 
-
+Un [site web](https://mmassd.github.io/atelier_git) est généré à partir de ce dépôt, consulter la [documentation](https://github.com/pages-themes/minimal) pour le modifier.
